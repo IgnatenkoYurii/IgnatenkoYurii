@@ -1,8 +1,5 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/MUic6gGA4OkwgsozUu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/socialbakers-transparent-MUic6gGA4OkwgsozUu">via GIPHY</a></p>" width="100"/>
-</div>
-<div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/MUic6gGA4OkwgsozUu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/socialbakers-transparent-MUic6gGA4OkwgsozUu">via GIPHY</a></p>" width="100"/>
+  <img src="https://media.giphy.com/media/VRKheDy4DkBMrQm66p/giphy-downsized-large.gif" width="100"/>
 </div>
 
 
