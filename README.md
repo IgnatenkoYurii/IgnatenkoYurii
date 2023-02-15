@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="ignatenko2873#0383">
+  <a href="https://discord.com/">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://medium.com/@ignatenko2873">
     <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCLRM6-xcbTq_ZLzskzPA84Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/ignatenko2873">
