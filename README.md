@@ -3,6 +3,9 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="ignatenko2873#0383">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Medium Badge"/>
+  </a>
   <a href="https://medium.com/@ignatenko2873">
     <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
@@ -35,7 +38,7 @@ I am a Noderunner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/T-telegram-blue)](https://t.me/yurii0222)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yurii0222)
   
   
 
