@@ -34,7 +34,7 @@ I am a Noderunner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :seedling: Exploring Technical Writing of Nodes.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: «Risk comes from not knowing what you’re doing.» Warren Buffett
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yurii0222)
   
